@@ -8,3 +8,4 @@ matplotlib
 tslearn
 minisom
 tensorflow
+openpyxl
